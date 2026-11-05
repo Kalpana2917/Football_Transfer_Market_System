@@ -32,7 +32,7 @@ Implemented using MySQL Transactions and UNIQUE Constraints to prevent duplicate
 All tables are in 3NF.
 
 ##  ER Diagram
-![ER Diagram](ER_Diagram.png)
+![ER Diagram](docs/er-diagram.png)
 
 ##  Key Features / Constraints
 - `UNIQUE(project_id, user_id)` in Applications
